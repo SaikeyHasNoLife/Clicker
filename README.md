@@ -1,4 +1,4 @@
-# Clicker
+# Bit Clicker
 Some Random Minecraft Autoclicker
 
 Yo, this is Saikey.
